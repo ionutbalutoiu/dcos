@@ -3,8 +3,8 @@
     "systemctl-win": {
       "kind": "git",
       "git": "https://github.com/dcos/dcos-windows.git",
-      "ref": "69235ed59b5d53def13e355ff2d7d494d437e77f",
-      "ref_origin": "timer-tests"
+      "ref": "598558110926092e3cfd28250157cee57709ff36",
+      "ref_origin": "master"
     }
   }
 }
