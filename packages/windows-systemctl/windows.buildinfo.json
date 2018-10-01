@@ -3,7 +3,7 @@
     "systemctl-win": {
       "kind": "git",
       "git": "https://github.com/dcos/dcos-windows.git",
-      "ref": "598558110926092e3cfd28250157cee57709ff36",
+      "ref": "afa9dfd920d5cde9394f47c73d0cc2f9d919f9b5",
       "ref_origin": "master"
     }
   }
